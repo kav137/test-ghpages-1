@@ -1,0 +1,58 @@
+div {
+  position: absolute;
+}
+
+#sky {
+  width: 500px;
+  height: 400px;
+  background-color: skyblue;
+}
+
+#grass {
+  width: 500px;
+  height: 100px;
+  top: 400px;
+  background-color: green;
+}
+
+#house {
+  width: 300px;
+  height: 200px;
+  top: 250px;
+  left: 100px;
+  background-color: white;
+}
+
+#roof {
+  width: 0;
+  height: 0;
+  border-left: 180px solid transparent;
+  border-right: 180px solid transparent;
+  border-bottom: 100px solid red;
+  top: 150px;
+  left: 70px;
+}
+
+#door {
+  width: 40px;
+  height: 100px;
+  background-color: brown;
+  left: 140px;
+  top: 350px;
+}
+
+#window1 {
+  width: 70px;
+  height: 70px;
+  background-color: blue;
+  left: 210px;
+  top: 350px;
+}
+
+#window2 {
+  width: 70px;
+  height: 70px;
+  background-color: blue;
+  left: 300px;
+  top: 350px;
+}
